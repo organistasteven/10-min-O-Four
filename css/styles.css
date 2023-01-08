@@ -1,0 +1,278 @@
+.test {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+.test > span {
+    margin-left: 1rem;
+}
+
+@media (max-width : 600px) {
+    header{
+        font-size:x-small;
+    }
+    footer{
+        font-size:x-small
+    }
+    .mainLink{
+        font-size:x-small;
+    }
+    .update{
+        font-size:x-small; 
+        width: 440px;
+        position: relative;
+        left: -40px;
+         
+    }
+    body{
+        background:url(../docs/images/back3.jpg);
+        background-size: 100%;
+    }
+ 
+    .edito{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    footer nav a{
+        width: 10%;
+    }
+    h1{
+        font-size: x-small;
+    }
+    .tools{
+        font-size: xx-small;
+    }
+    .tools div{
+       padding-right: 13%;
+      
+    }
+    #principe{
+        font-size: xx-small;
+        
+    }
+  
+}
+@media (max-width : 800px){
+    footer nav a{
+        width: 10%;
+    }
+}
+
+
+.headerIcon{
+    width: 10%;
+}
+.mainIcon{
+    width: 7%;
+}
+.picEdito{
+ width: 70%;
+margin-left: 15%;
+ 
+}
+.iconEdito{
+    width: 3%;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+   
+}
+header nav a{
+    text-decoration: none;
+    color: burlywood;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+header nav a:hover{
+    background-color:darkslategrey
+}
+header{
+    border: 2px solid black;
+    background: url(../docs/images/header.jpg);
+}
+body{
+    background: url(../docs/images/back3.jpg);
+    background-size: 150%;
+    
+}
+
+.mainLink{
+    text-decoration: none;
+    color:  black;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 2px solid black;
+    padding-right: 0.45%;
+    padding-top: 0.45%;
+    margin-right: 20%;
+    margin-left: 10%;
+    margin-top: 2%;
+    background-color:rgb(118, 157, 118);
+}
+main a:hover{
+    background-color:darkslategrey
+}
+#mainNav{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 3%;
+}
+
+.edito{
+   width: 70%;
+    margin-left: 13%;
+    margin-top: 2%;
+    background:rgb(118, 157, 118);
+    border: 2px solid black;
+    color:black; 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.edito h1{
+    text-align: center;
+    color: rgb(52, 50, 50);
+}
+
+.edito p{
+    color: rgb(52, 50, 50);
+    margin-left: 2%;
+
+}
+.postInfos{
+   display: flex;
+  flex-direction: row;
+  margin-left: 10%;
+  
+}
+.update{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2%;
+    margin-right: 4%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+.last{
+    background:rgb(118, 157, 118);
+    border: 2px solid black;
+    width: 20%;
+}
+.best{
+    background:rgb(118, 157, 118);
+    border: 2px solid black;
+    width: 20%;
+
+}
+.update h5{
+    color: rgb(52, 50, 50);
+}
+.update li:hover{
+    background-color:darkslategrey
+}
+footer nav{
+    display: flex;
+    justify-content: space-around;
+}
+.contactIcon{
+    width: 5%;
+}
+.legalIcon{
+    width: 12%;
+    position: relative;
+    right: 1%;
+    top: 1%;
+}
+.padIcon{
+    width: 10%;
+}
+footer nav a{
+    text-decoration: none;
+    color: burlywood;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+footer nav a:hover{
+    background-color:darkslategrey;
+}
+footer{
+    background: url(../docs/images/header.jpg);
+   
+}
+#principe{
+    text-align: center;
+    color: black;
+    background-color:rgb(118, 157, 118); ;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: medium;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+ h1{
+   
+    color: black;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background:rgb(118, 157, 118);
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 2px black solid;
+}
+.tools{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.tools div{
+    background:rgb(118, 157, 118);
+    border: 2px solid black;
+    width: 20%;
+}
+.tools div h5{
+    color: black;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.tools div li{
+    color: black;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.process{
+    background:rgb(118, 157, 118);
+    border: 2px solid black;
+    width: 60%;
+    margin-top: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-left: 15%;
+    font-size: medium;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.process h3{
+    text-align: center;
+    font-weight: bolder;
+   
+}
+.recettePic{
+    width: 50%;
+    margin-left: 25%;
+}
+.step{
+    color: black;
+}
