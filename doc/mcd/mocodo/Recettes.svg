@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1209" height="992" viewBox="0 0 1209 992" xmlns="http://www.w3.org/2000/svg">
+<rect id="frame" x="0" y="0" width="1209" height="992" fill="none" stroke="none" stroke-width="0"/>
+
+<!-- Association Contient2 -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<line x1="96" y1="196" x2="260" y2="196" stroke="#726f83" stroke-width="5"/>
+	<text x="161" y="218" fill="#726f83" font-family="Skia" font-size="18">1,N</text>
+	<line x1="260" y1="346" x2="260" y2="196" stroke="#726f83" stroke-width="5"/>
+	<text x="225" y="257" fill="#726f83" font-family="Skia" font-size="18">1,N</text>
+	<g>
+		<path d="M307 157 a2 2 90 0 1 2 2 V195 h-98 V159 a2 2 90 0 1 2 -2" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+		<path d="M309 195 v38 a2 2 90 0 1 -2 2 H213 a2 2 90 0 1 -2 -2 V195 H98" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+		<rect x="211" y="157" width="98" height="78" fill="none" rx="2" stroke="#85956b" stroke-width="5"/>
+		<line x1="211" y1="195" x2="309" y2="195" stroke="#85956b" stroke-width="5"/>
+		<text x="221" y="184" fill="#27360c" font-family="Skia" font-size="20">Contient</text>
+	</g>
+</g>
+
+<!-- Association Posséde4 -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<line x1="260" y1="346" x2="413" y2="196" stroke="#726f83" stroke-width="5"/>
+	<text x="324" y="301.94" fill="#726f83" font-family="Skia" font-size="18">1,1</text>
+	<line x1="413" y1="74" x2="413" y2="196" stroke="#726f83" stroke-width="5"/>
+	<text x="421" y="145" fill="#726f83" font-family="Skia" font-size="18">0,N</text>
+	<g>
+		<path d="M457 157 a2 2 90 0 1 2 2 V195 h-92 V159 a2 2 90 0 1 2 -2" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+		<path d="M459 195 v38 a2 2 90 0 1 -2 2 H369 a2 2 90 0 1 -2 -2 V195 H92" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+		<rect x="367" y="157" width="92" height="78" fill="none" rx="2" stroke="#85956b" stroke-width="5"/>
+		<line x1="367" y1="195" x2="459" y2="195" stroke="#85956b" stroke-width="5"/>
+		<text x="377" y="184" fill="#27360c" font-family="Skia" font-size="20">Posséde</text>
+	</g>
+</g>
+
+<!-- Association Posséde5 -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<line x1="260" y1="346" x2="96" y2="346" stroke="#726f83" stroke-width="5"/>
+	<text x="165" y="368" fill="#726f83" font-family="Skia" font-size="18">0,N</text>
+	<line x1="96" y1="506" x2="96" y2="346" stroke="#726f83" stroke-width="5"/>
+	<text x="104" y="445" fill="#726f83" font-family="Skia" font-size="18">1,1</text>
+	<g>
+		<path d="M140 307 a2 2 90 0 1 2 2 V345 h-92 V309 a2 2 90 0 1 2 -2" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+		<path d="M142 345 v38 a2 2 90 0 1 -2 2 H52 a2 2 90 0 1 -2 -2 V345 H92" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+		<rect x="50" y="307" width="92" height="78" fill="none" rx="2" stroke="#85956b" stroke-width="5"/>
+		<line x1="50" y1="345" x2="142" y2="345" stroke="#85956b" stroke-width="5"/>
+		<text x="60" y="334" fill="#27360c" font-family="Skia" font-size="20">Posséde</text>
+	</g>
+</g>
+
+<!-- Association Posséde3 -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<line x1="260" y1="346" x2="413" y2="346" stroke="#726f83" stroke-width="5"/>
+	<text x="324" y="368" fill="#726f83" font-family="Skia" font-size="18">1,1</text>
+	<line x1="560" y1="346" x2="413" y2="346" stroke="#726f83" stroke-width="5"/>
+	<text x="467" y="368" fill="#726f83" font-family="Skia" font-size="18">0,N</text>
+	<g>
+		<path d="M457 307 a2 2 90 0 1 2 2 V345 h-92 V309 a2 2 90 0 1 2 -2" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+		<path d="M459 345 v38 a2 2 90 0 1 -2 2 H369 a2 2 90 0 1 -2 -2 V345 H92" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+		<rect x="367" y="307" width="92" height="78" fill="none" rx="2" stroke="#85956b" stroke-width="5"/>
+		<line x1="367" y1="345" x2="459" y2="345" stroke="#85956b" stroke-width="5"/>
+		<text x="377" y="334" fill="#27360c" font-family="Skia" font-size="20">Posséde</text>
+	</g>
+</g>
+
+<!-- Association Possède -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<line x1="260" y1="676" x2="260" y2="506" stroke="#726f83" stroke-width="5"/>
+	<text x="268" y="577" fill="#726f83" font-family="Skia" font-size="18">0,N</text>
+	<line x1="260" y1="346" x2="260" y2="506" stroke="#726f83" stroke-width="5"/>
+	<text x="225" y="445" fill="#726f83" font-family="Skia" font-size="18">1,N</text>
+	<g>
+		<path d="M304 467 a2 2 90 0 1 2 2 V505 h-92 V469 a2 2 90 0 1 2 -2" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+		<path d="M306 505 v38 a2 2 90 0 1 -2 2 H216 a2 2 90 0 1 -2 -2 V505 H92" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+		<rect x="214" y="467" width="92" height="78" fill="none" rx="2" stroke="#85956b" stroke-width="5"/>
+		<line x1="214" y1="505" x2="306" y2="505" stroke="#85956b" stroke-width="5"/>
+		<text x="224" y="494" fill="#27360c" font-family="Skia" font-size="20">Possède</text>
+	</g>
+</g>
+
+<!-- Association Contient -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<line x1="413" y1="676" x2="413" y2="506" stroke="#726f83" stroke-width="5"/>
+	<text x="421" y="596" fill="#726f83" font-family="Skia" font-size="18">1,N</text>
+	<line x1="260" y1="346" x2="413" y2="506" stroke="#726f83" stroke-width="5"/>
+	<text x="324" y="403.52" fill="#726f83" font-family="Skia" font-size="18">1,N</text>
+	<g>
+		<path d="M460 467 a2 2 90 0 1 2 2 V505 h-98 V469 a2 2 90 0 1 2 -2" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+		<path d="M462 505 v38 a2 2 90 0 1 -2 2 H366 a2 2 90 0 1 -2 -2 V505 H98" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+		<rect x="364" y="467" width="98" height="78" fill="none" rx="2" stroke="#85956b" stroke-width="5"/>
+		<line x1="364" y1="505" x2="462" y2="505" stroke="#85956b" stroke-width="5"/>
+		<text x="374" y="494" fill="#27360c" font-family="Skia" font-size="20">Contient</text>
+	</g>
+</g>
+
+<!-- Association Posséde6 -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<line x1="96" y1="506" x2="96" y2="676" stroke="#726f83" stroke-width="5"/>
+	<text x="104" y="577" fill="#726f83" font-family="Skia" font-size="18">1,1</text>
+	<line x1="260" y1="676" x2="96" y2="676" stroke="#726f83" stroke-width="5"/>
+	<text x="172" y="698" fill="#726f83" font-family="Skia" font-size="18">0,N</text>
+	<g>
+		<path d="M140 637 a2 2 90 0 1 2 2 V675 h-92 V639 a2 2 90 0 1 2 -2" fill="#b2bba4" stroke="#b2bba4" stroke-width="0"/>
+		<path d="M142 675 v38 a2 2 90 0 1 -2 2 H52 a2 2 90 0 1 -2 -2 V675 H92" fill="#ccd6ba" stroke="#ccd6ba" stroke-width="0"/>
+		<rect x="50" y="637" width="92" height="78" fill="none" rx="2" stroke="#85956b" stroke-width="5"/>
+		<line x1="50" y1="675" x2="142" y2="675" stroke="#85956b" stroke-width="5"/>
+		<text x="60" y="664" fill="#27360c" font-family="Skia" font-size="20">Posséde</text>
+	</g>
+</g>
+
+<!-- Entity Saison -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<g>
+		<rect x="374" y="25" width="78" height="40" fill="#97b8ff" stroke="#97b8ff" stroke-width="0" opacity="1"/>
+		<rect x="374" y="65" width="78" height="58" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0" opacity="1"/>
+		<rect x="374" y="25" width="78" height="98" fill="none" stroke="#578dff" stroke-width="5" opacity="1"/>
+		<line x1="374" y1="65" x2="452" y2="65" stroke="#578dff" stroke-width="5"/>
+	</g>
+	<text x="384" y="52" fill="#131114" font-family="Skia" font-size="20">Saison</text>
+	<text x="384" y="90.3" fill="#3e3c42" font-family="Skia" font-size="18">Nom</text>
+	<line x1="384" y1="93" x2="425" y2="93" stroke="#3e3c42" stroke-width="1.2"/>
+</g>
+
+<!-- Entity Etape -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<g>
+		<rect x="39" y="138" width="114" height="40" fill="#97b8ff" stroke="#97b8ff" stroke-width="0" opacity="1"/>
+		<rect x="39" y="178" width="114" height="76" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0" opacity="1"/>
+		<rect x="39" y="138" width="114" height="116" fill="none" stroke="#578dff" stroke-width="5" opacity="1"/>
+		<line x1="39" y1="178" x2="153" y2="178" stroke="#578dff" stroke-width="5"/>
+	</g>
+	<text x="70" y="165" fill="#131114" font-family="Skia" font-size="20">Etape</text>
+	<text x="49" y="203.3" fill="#3e3c42" font-family="Skia" font-size="18">Numéro</text>
+	<line x1="49" y1="206" x2="117" y2="206" stroke="#3e3c42" stroke-width="1.2"/>
+	<text x="49" y="222.3" fill="#3e3c42" font-family="Skia" font-size="18">Description</text>
+</g>
+
+<!-- Entity Recette -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<g>
+		<rect x="204" y="269" width="112" height="40" fill="#97b8ff" stroke="#97b8ff" stroke-width="0" opacity="1"/>
+		<rect x="204" y="309" width="112" height="114" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0" opacity="1"/>
+		<rect x="204" y="269" width="112" height="154" fill="none" stroke="#578dff" stroke-width="5" opacity="1"/>
+		<line x1="204" y1="309" x2="316" y2="309" stroke="#578dff" stroke-width="5"/>
+	</g>
+	<text x="226" y="296" fill="#131114" font-family="Skia" font-size="20">Recette</text>
+	<text x="214" y="334.3" fill="#3e3c42" font-family="Skia" font-size="18">Titre</text>
+	<line x1="214" y1="337" x2="253" y2="337" stroke="#3e3c42" stroke-width="1.2"/>
+	<text x="214" y="353.3" fill="#3e3c42" font-family="Skia" font-size="18">Durée</text>
+	<text x="214" y="372.3" fill="#3e3c42" font-family="Skia" font-size="18">NomImage</text>
+	<text x="214" y="391.3" fill="#3e3c42" font-family="Skia" font-size="18">Rating</text>
+</g>
+
+<!-- Entity Catégorie -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<g>
+		<rect x="506" y="297" width="108" height="40" fill="#97b8ff" stroke="#97b8ff" stroke-width="0" opacity="1"/>
+		<rect x="506" y="337" width="108" height="58" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0" opacity="1"/>
+		<rect x="506" y="297" width="108" height="98" fill="none" stroke="#578dff" stroke-width="5" opacity="1"/>
+		<line x1="506" y1="337" x2="614" y2="337" stroke="#578dff" stroke-width="5"/>
+	</g>
+	<text x="517" y="324" fill="#131114" font-family="Skia" font-size="20">Catégorie</text>
+	<text x="516" y="362.3" fill="#3e3c42" font-family="Skia" font-size="18">Nom</text>
+	<line x1="516" y1="365" x2="557" y2="365" stroke="#3e3c42" stroke-width="1.2"/>
+</g>
+
+<!-- Entity Commentaire -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<g>
+		<rect x="25" y="457" width="142" height="40" fill="#97b8ff" stroke="#97b8ff" stroke-width="0" opacity="1"/>
+		<rect x="25" y="497" width="142" height="58" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0" opacity="1"/>
+		<rect x="25" y="457" width="142" height="98" fill="none" stroke="#578dff" stroke-width="5" opacity="1"/>
+		<line x1="25" y1="497" x2="167" y2="497" stroke="#578dff" stroke-width="5"/>
+	</g>
+	<text x="35" y="484" fill="#131114" font-family="Skia" font-size="20">Commentaire</text>
+	<text x="35" y="522.3" fill="#3e3c42" font-family="Skia" font-size="18">Content</text>
+	<line x1="35" y1="525" x2="101" y2="525" stroke="#3e3c42" stroke-width="1.2"/>
+</g>
+
+<!-- Entity User -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<g>
+		<rect x="211" y="589" width="98" height="40" fill="#97b8ff" stroke="#97b8ff" stroke-width="0" opacity="1"/>
+		<rect x="211" y="629" width="98" height="134" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0" opacity="1"/>
+		<rect x="211" y="589" width="98" height="174" fill="none" stroke="#578dff" stroke-width="5" opacity="1"/>
+		<line x1="211" y1="629" x2="309" y2="629" stroke="#578dff" stroke-width="5"/>
+	</g>
+	<text x="239" y="616" fill="#131114" font-family="Skia" font-size="20">User</text>
+	<text x="221" y="654.3" fill="#3e3c42" font-family="Skia" font-size="18">Nom</text>
+	<line x1="221" y1="657" x2="262" y2="657" stroke="#3e3c42" stroke-width="1.2"/>
+	<text x="221" y="673.3" fill="#3e3c42" font-family="Skia" font-size="18">Mail</text>
+	<text x="221" y="692.3" fill="#3e3c42" font-family="Skia" font-size="18">Avatar</text>
+	<text x="221" y="711.3" fill="#3e3c42" font-family="Skia" font-size="18">Password</text>
+	<text x="221" y="730.3" fill="#3e3c42" font-family="Skia" font-size="18">Role</text>
+</g>
+
+<!-- Entity Ingrédient -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<g>
+		<rect x="356" y="608" width="114" height="40" fill="#97b8ff" stroke="#97b8ff" stroke-width="0" opacity="1"/>
+		<rect x="356" y="648" width="114" height="96" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0" opacity="1"/>
+		<rect x="356" y="608" width="114" height="136" fill="none" stroke="#578dff" stroke-width="5" opacity="1"/>
+		<line x1="356" y1="648" x2="470" y2="648" stroke="#578dff" stroke-width="5"/>
+	</g>
+	<text x="366" y="635" fill="#131114" font-family="Skia" font-size="20">Ingrédient</text>
+	<text x="366" y="673.3" fill="#3e3c42" font-family="Skia" font-size="18">Nom</text>
+	<line x1="366" y1="676" x2="407" y2="676" stroke="#3e3c42" stroke-width="1.2"/>
+	<text x="366" y="692.3" fill="#3e3c42" font-family="Skia" font-size="18">Quantité</text>
+	<text x="366" y="711.3" fill="#3e3c42" font-family="Skia" font-size="18">Unité</text>
+</g>
+
+<!-- Entity Message -->
+<g class="page_0_FuLDYchr diagram_page" visibility="visible">
+	<g>
+		<rect x="1084" y="831" width="100" height="40" fill="#97b8ff" stroke="#97b8ff" stroke-width="0" opacity="1"/>
+		<rect x="1084" y="871" width="100" height="96" fill="#c0d4ff" stroke="#c0d4ff" stroke-width="0" opacity="1"/>
+		<rect x="1084" y="831" width="100" height="136" fill="none" stroke="#578dff" stroke-width="5" opacity="1"/>
+		<line x1="1084" y1="871" x2="1184" y2="871" stroke="#578dff" stroke-width="5"/>
+	</g>
+	<text x="1095" y="858" fill="#131114" font-family="Skia" font-size="20">Message</text>
+	<text x="1094" y="896.3" fill="#3e3c42" font-family="Skia" font-size="18">Nom</text>
+	<line x1="1094" y1="899" x2="1135" y2="899" stroke="#3e3c42" stroke-width="1.2"/>
+	<text x="1094" y="915.3" fill="#3e3c42" font-family="Skia" font-size="18">Contenue</text>
+	<text x="1094" y="934.3" fill="#3e3c42" font-family="Skia" font-size="18">Mail</text>
+</g>
+</svg>

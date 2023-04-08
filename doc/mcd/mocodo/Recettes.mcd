@@ -1,0 +1,104 @@
+:
+:
+Saison: Nom,
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+Etape: Numéro, Description, 
+Contient2,1N Etape,1N Recette
+Posséde4, 11 Recette,0N Saison
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+Posséde5, 0N Recette,11 Commentaire
+Recette: Titre, Durée, NomImage, Rating,
+Posséde3, 11 Recette,0N Catégorie
+Catégorie: Nom,
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+Commentaire: Content, 
+Possède, 0N User,1N Recette
+Contient,1N Ingrédient,1N Recette
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+Posséde6, 11 Commentaire,0N User
+User: Nom, Mail, Avatar, Password, Role,
+Ingrédient: Nom, Quantité, Unité,
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+Message: Nom, Contenue, Mail,

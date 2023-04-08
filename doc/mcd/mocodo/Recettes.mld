@@ -1,0 +1,40 @@
+%%mocodo
+:::::
+Saison: Nom, 
+:::::
+
+
+:
+Etape: Numéro, Description, 
+:
+Contient2: #Numéro->Etape->Numéro, _#Titre->Recette->Titre
+:::::::
+
+
+:::
+Recette: Titre, Durée, NomImage, Rating, , #Nom->Saison->Nom, #Nom.1->Catégorie->Nom
+:::
+Catégorie: Nom, 
+:::
+
+
+:
+Commentaire: Content, , #Titre->Recette->Titre, #Nom->User->Nom
+:
+Possède: #Nom->User->Nom, _#Titre->Recette->Titre
+:
+Contient: #Nom->Ingrédient->Nom, _#Titre->Recette->Titre
+:::::
+
+
+:::
+User: Nom, Mail, Avatar, Password, Role, 
+:
+Ingrédient: Nom, Quantité, Unité, 
+:::::
+
+
+
+:::::::::
+Message: Nom, Contenue, Mail, 
+:
